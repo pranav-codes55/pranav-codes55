@@ -1,7 +1,6 @@
 # Hi, I'm Pranav R P 👋
 
-🎓 2nd year CSE student at PES University, Bangalore
-📊 Computer Science Student | Python · SQL · Tableau · 
+🎓 2nd year CSE student at PES University
 📍 Bangalore, India
 📧 rppranav081@gmail.com
 
@@ -52,7 +51,7 @@ Restaurant management system using C and Data Structures.
 
 - 📧 rppranav081@gmail.com
 - 📱 +91-7760718004
-- 💼 [LinkedIn](https://www.linkedin.com/in/pranav-rp-a89635314/) ← add your LinkedIn URL here
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranav-rp-a89635314/)
 
 ---
 

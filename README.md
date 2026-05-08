@@ -50,7 +50,6 @@ Restaurant management system using C and Data Structures.
 ## 📫 Connect with me
 
 - 📧 rppranav081@gmail.com
-- 📱 +91-7760718004
 - 💼 [LinkedIn](https://www.linkedin.com/in/pranav-rp-a89635314/)
 
 ---

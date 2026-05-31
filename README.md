@@ -23,13 +23,13 @@ ML model to predict customer churn using Random Forest.
 Built with Python, MySQL, Tableau dashboards.
 > 75% accuracy · Tools: Python, SQL, Tableau, Streamlit
 
-### 🍽️ Dishcovery — Recipe Web App
-Full-stack recipe discovery app.
-> Tools: React, Node.js, Express, MongoDB
-
 ### 🤖 GenAI RAG Bot
 RAG-based PDF chatbot using LangChain and FAISS.
 > Tools: Python, Streamlit, LangChain, FAISS
+> 
+### 🍽️ Dishcovery — Recipe Web App
+Full-stack recipe discovery app.
+> Tools: React, Node.js, Express, MongoDB
 
 ### 🍔 RU Hungry — Restaurant Management System
 Restaurant management system using C and Data Structures.

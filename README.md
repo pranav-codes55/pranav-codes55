@@ -26,14 +26,6 @@ Built with Python, MySQL, Tableau dashboards.
 ### 🤖 GenAI RAG Bot
 RAG-based PDF chatbot using LangChain and FAISS.
 > Tools: Python, Streamlit, LangChain, FAISS
-> 
-### 🍽️ Dishcovery — Recipe Web App
-Full-stack recipe discovery app.
-> Tools: React, Node.js, Express, MongoDB
-
-### 🍔 RU Hungry — Restaurant Management System
-Restaurant management system using C and Data Structures.
-> Tools: C, Data Structures
 
 ---
 

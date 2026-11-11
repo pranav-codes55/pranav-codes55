@@ -1,6 +1,6 @@
 # Hi, I'm Pranav R P 👋
 
-🎓 2nd year CSE student at PES University
+🎓 3rd year CSE student at PES University
 📍 Bangalore, India
 📧 rppranav081@gmail.com
 
